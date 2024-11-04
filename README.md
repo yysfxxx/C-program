@@ -1,2 +1,2 @@
 # C-program
-some ingenious C 凑得、
+some ingenious C code
